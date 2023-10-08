@@ -1,4 +1,6 @@
 # <font color='darkorange'>Proyectos en Python</font>
+<div align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></div>
+
 En estre repositorio encontrarás proyectos realizados en Python desde un nivel mas básico a un nivel mas avanzado, siguiendo curso de [Python TOTAL - Programador Avanzado en 16 días](https://www.udemy.com/course/python-total/) de Udemy.
 
 # Proyecto 1️⃣ - Creador creativo de Nombres
