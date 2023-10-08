@@ -77,18 +77,7 @@ El programa le pregunta al cliente a cuál de las tres áreas posibles de la Far
 Instalar paquetes, modulos y paquetes propios, manejo de errores, Tests con Pylint y Unittest, decoradores y generadores.
 
 ## Proyecto 9️⃣ - Buscador de número de serie
-Es un programa que se encargue de buscar números de serie que cumplan un determinado formato, dentro de un arbol de carpetas. El programa va a recorrer todos los archivos y subcarpetas de un directorio raiz y va a buscar cualquier string que coincida con un patrón de número de serie. La presentación de la pantalla de salida debe ser similar a la siguiente:
-----------------------------------------------------
-Fecha de búsqueda: fecha de hoy
-
-ARCHIVO		NRO. SERIE
--------		----------
-texto1.txt	Nter-15496
-texto25.txt	Ngba-85235
-
-Números encontrados: 2
-Duración de la búsqueda: 1 segundos
-----------------------------------------------------
+Es un programa que se encargue de buscar números de serie que cumplan un determinado formato, dentro de un arbol de carpetas. El programa va a recorrer todos los archivos y subcarpetas de un directorio raiz y va a buscar cualquier string que coincida con un patrón de número de serie. La presentación de la pantalla de salida debe mostrar la fecha de la búsqueda, mostrar dos columnas: El archivo encontrado y el número de serie encontrado en el archivo y por último, la cantidad de números de serie encontrados y el tiempo empleado en la búsqueda.
 
 ### ¿Qué aprendí?
 Collections, módulos OS, Shutil, Datetime, medir tiempos, Math, Re (Expresiones regulares), comprimir y descomprimir archivos.
