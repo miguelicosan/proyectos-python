@@ -1,5 +1,6 @@
 # <font color='darkorange'>Videojuego: ¡Space Invaders!</font>
 
+<div align="center"><img src="https://github.com/miguelicosan/proyectos-python/blob/main/10_Videojuego_Space_Invaders/screenshot.PNG"></div>
 
 Se trata de programar un videojuego muy parecido al Space Invaders o Invasión Espacial, que todos hemos jugado alguna vez. Controlaremos una nave con el teclado y dispararemos con la barra espaciadora. ¿Te hace una partida?
 
