@@ -88,32 +88,34 @@ Se trata de programar un videojuego muy parecido al Space Invaders o Invasión E
 ### ¿Qué aprendí?
 Crear pantalla, titulo, iconos, colores, fondos, agregar protagonistas, movimiento de personaje, control de movimiento, limite de movimientos, crear enemigos, movimiento de balas, detectar colisiones, agregar enemigos nuevos, mostrar puntuación, agregar música y sonidos, finalizar juego y crear archivo ejecutable (.exe)
 
-## 11. Extractor de datos web (Web Scraping)
-¿Sabes que es el webscraping? El web scraping se refiere al proceso de extracción de contenidos y datos de sitios web mediante software. Por ejemplo, la mayoría de los servicios de comparación de precios utilizan web scrapers para leer la información de precios de varias tiendas online.
+## [11. Extractor de datos web (Web Scraping)](https://github.com/miguelicosan/proyectos-python/tree/main/11_Extractor_de_datos_web)
+¿Sabes que es el Web Scraping? El web scraping se refiere al proceso de extracción de contenidos y datos de sitios web mediante software. Por ejemplo, la mayoría de los servicios de comparación de precios utilizan web scrapers para leer la información de precios de varias tiendas online.
+
+El objetivo del ejercicio es analizar el sitio web https://toscrape.com/, un sitio web destinado para realizar pruebas de webscrapoing, para obtener información de los libros que tengan una puntuación de 4 o más estrellas.
 
 ### ¿Qué aprendí?
 Principios, ver código fuente, titulos y elementos de una página web. Extraer elementos de una clase e imágenes. Toscrape.com, Explorar múltiples páginas, identificar condiciones de extracción y combinación de items buscados.
 
-## 12. Gestor de Restaurantes
+## [12. Gestor de Restaurantes](https://github.com/miguelicosan/proyectos-python/tree/main/12_Gestor_de_Restaurantes)
 Se trata de programar una interface gráfica de usuario para gestionar un restaurante que permita introducir los detalles de los elementos consumidos en una mesa y poder obtener la cuenta de cada mesa. Te va permitir generar un recibo o ticket que va a guardar en un fichero txt en el ordenador para enviarlo a imprimir o guardarlo. Además incluirá una calculadora incorporada por si el usuario necesita realizar alguna operación adicional.
 
 ### ¿Qué aprendí?
 TKinter, paneles, checkbuttons, inputtext, botones y demas elementos de pantalla.
 
-## 13. Asistente por voz (tu propio Siri o Alexa)
+## [13. Asistente por voz (tu propio Siri o Alexa)](https://github.com/miguelicosan/proyectos-python/tree/main/13_Asistente_por_Voz)
 Un programa que podrás hablar y pedir que te asista en muchas tareas. Será capaz de desarrollar tareas y hacerlo facilimente excalable para poder añadirle muchas nuevas facilmente. 
 
 ### ¿Qué aprendí?
 Transformar voz en texto y texto en voz, configurar idioma, consultar dia y hora, buscar en wikipedia, abrir un navegador, consultar finanzas, que te cuente un chiste, etc...
 - Bibliotecas pyttsx3, speech_recognition, webbrowser, pywhatkit, yfinance, pyjokes y wikipedia.
 
-## 14. Control de Asistencia por Reconocimiento facial
+## [14. Control de Asistencia por Reconocimiento facial](https://github.com/miguelicosan/proyectos-python/tree/main/14_Asistencia_Reconocimiento_Facial)
 Se trata de programar un control de asistencia de empleados mediante reconocimiento facial, ¡no será necesario fichar usando nada mas que tu cara! Se registrará en una tabla la fecha y hora de la persona que ha sido indentificada.
 
 ### ¿Qué aprendí?
 Reconocimiento facial, análisis facial, conversión a datos (huella digital) y buscar coincidencias.
 
-## 15. Modelo de Machine Learning
+## [15. Modelo de Machine Learning](https://github.com/miguelicosan/proyectos-python/tree/main/15_Modelo_Inteligencia_Artificial)
 En este proyecto se va a revisar una base de datos de pasajeros del famoso barco Titanic y en base al análisis de quienes sobrevivieron y quienes no van, va a poder identificar que caracterísiticas son las mas favorables y desfavorables para sobrevivir a su hundimiento. Incluso va a poder predecir si presentaramos nuevos pasajeros, si estos van a sobrevivir o no.
 
 El modelo de machine learing es una rama de la inteligencia artifical para entrenar a nuestro programa para que en base en su experiencia y los datos provistos sea capaz de predecir el resultado de nuevos casos.
@@ -121,7 +123,7 @@ El modelo de machine learing es una rama de la inteligencia artifical para entre
 ### ¿Qué aprendí?
 Data science en Python usando bibliotecas: numpy, pandas y matplotlob
 
-## 16. Programación de una Página Web
+## [16. Programación de una Página Web](https://github.com/miguelicosan/proyectos-python/tree/main/16_Programar_Pagina_Web)
 En este proyecto vamos a crear desarrollar una página web usando que permita administrar una lista de tareas pendientes: editarlas, eliminarlas, marcarlas como completadas, relizar búsquedas y mucho mas. Vamos a tener un control de login de usuarios permitiendo por tanto gestionar el registro de usuarios.
 
 ### ¿Qué aprendí?
