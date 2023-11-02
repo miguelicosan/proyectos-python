@@ -84,6 +84,9 @@ Collections, módulos OS, Shutil, Datetime, medir tiempos, Math, Re (Expresiones
 
 ## [10. Videojuego: ¡Space Invaders!](https://github.com/miguelicosan/proyectos-python/tree/main/10_Videojuego_Space_Invaders)
 Se trata de programar un videojuego muy parecido al Space Invaders o Invasión Espacial, que todos hemos jugado alguna vez.
+Controlaremos una nave con el teclado y dispararemos con la barra espaciadora. ¿Te hace una partida?
+
+<div align="center"><img src="https://github.com/miguelicosan/proyectos-python/blob/main/10_Videojuego_Space_Invaders/screenshot.PNG"></div>
 
 ### ¿Qué aprendí?
 Crear pantalla, titulo, iconos, colores, fondos, agregar protagonistas, movimiento de personaje, control de movimiento, limite de movimientos, crear enemigos, movimiento de balas, detectar colisiones, agregar enemigos nuevos, mostrar puntuación, agregar música y sonidos, finalizar juego y crear archivo ejecutable (.exe)
@@ -98,6 +101,8 @@ Principios, ver código fuente, titulos y elementos de una página web. Extraer 
 
 ## [12. Gestor de Restaurantes](https://github.com/miguelicosan/proyectos-python/tree/main/12_Gestor_de_Restaurantes)
 Se trata de programar una interface gráfica de usuario para gestionar un restaurante que permita introducir los detalles de los elementos consumidos en una mesa y poder obtener la cuenta de cada mesa. Te va permitir generar un recibo o ticket que va a guardar en un fichero txt en el ordenador para enviarlo a imprimir o guardarlo. Además incluirá una calculadora incorporada por si el usuario necesita realizar alguna operación adicional.
+
+<div align="center"><img src="https://github.com/miguelicosan/proyectos-python/blob/main/12_Gestor_de_Restaurantes/gestion_de_restaurante.PNG"></div>
 
 ### ¿Qué aprendí?
 TKinter, paneles, checkbuttons, inputtext, botones y demas elementos de pantalla.
