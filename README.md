@@ -112,13 +112,14 @@ Un programa que podrás hablar y pedir que te asista en muchas tareas. Será cap
 
 ### ¿Qué aprendí?
 Transformar voz en texto y texto en voz, configurar idioma, consultar dia y hora, buscar en wikipedia, abrir un navegador, consultar finanzas, que te cuente un chiste, etc...
-- Bibliotecas pyttsx3, speech_recognition, webbrowser, pywhatkit, yfinance, pyjokes y wikipedia.
+- Librerías pyttsx3, speech_recognition, webbrowser, pywhatkit, yfinance, pyjokes y wikipedia.
 
 ## [14. Control de Asistencia por Reconocimiento facial](https://github.com/miguelicosan/proyectos-python/tree/main/14_Asistencia_Reconocimiento_Facial)
 Se trata de programar un control de asistencia de empleados mediante reconocimiento facial, ¡no será necesario fichar usando nada mas que tu cara! Se registrará en una tabla la fecha y hora de la persona que ha sido indentificada.
 
 ### ¿Qué aprendí?
-Reconocimiento facial, análisis facial, conversión a datos (huella digital) y buscar coincidencias.
+- Librerías de deconocimiento facial y análisis facial, conversión a datos (huella digital) y buscar coincidencias.
+- Librerías: cv2, face-recognition y numpy para cáculos
 
 ## [15. Modelo de Machine Learning](https://github.com/miguelicosan/proyectos-python/tree/main/15_Modelo_Inteligencia_Artificial)
 En este proyecto se va a revisar una base de datos de pasajeros del famoso barco Titanic y en base al análisis de quienes sobrevivieron y quienes no van, va a poder identificar que caracterísiticas son las mas favorables y desfavorables para sobrevivir a su hundimiento. Incluso va a poder predecir si presentaramos nuevos pasajeros, si estos van a sobrevivir o no.
