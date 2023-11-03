@@ -102,7 +102,7 @@ Principios, ver código fuente, titulos y elementos de una página web. Extraer 
 ## [12. Gestor de Restaurantes](https://github.com/miguelicosan/proyectos-python/tree/main/12_Gestor_de_Restaurantes)
 Se trata de programar una interface gráfica de usuario para gestionar un restaurante que permita introducir los detalles de los elementos consumidos en una mesa y poder obtener la cuenta de cada mesa. Te va permitir generar un recibo o ticket que va a guardar en un fichero txt en el ordenador para enviarlo a imprimir o guardarlo. Además incluirá una calculadora incorporada por si el usuario necesita realizar alguna operación adicional.
 
-<div align="center"><img src="https://github.com/miguelicosan/proyectos-python/blob/main/12_Gestor_de_Restaurantes/gestion_de_restaurante.png"></div>
+<div align="center"><img src="https://github.com/miguelicosan/proyectos-python/blob/main/12_Gestor_de_Restaurantes/captura_aplicacion.png"></div>
 
 ### ¿Qué aprendí?
 TKinter, paneles, checkbuttons, inputtext, botones y demas elementos de pantalla.
