@@ -3,5 +3,7 @@ En este proyecto se va a revisar una base de datos de pasajeros del famoso barco
 
 El modelo de machine learing es una rama de la inteligencia artifical para entrenar a nuestro programa para que en base en su experiencia y los datos provistos sea capaz de predecir el resultado de nuevos casos.
 
+Echa un vistazo a mi [Colab Notebook](https://colab.research.google.com/drive/19F_d1uF_5S38g02eFaPJQOi4dlj-KKoN)
+
 ### ¿Qué aprendí?
-Data science en Python usando bibliotecas: numpy, pandas y matplotlob
+- Data science en Python usando librerias: **numpy**, **pandas**, **matplotlob** y **sci-kit learn**
